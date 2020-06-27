@@ -1,7 +1,7 @@
 In order to graduate from the program, you must meet the criteria outlined in the “Program Completion” section in the Flatiron School Catalog, which can be viewed by clicking on “View the full United states catalog” here: https://flatironschool.com/north-america-regulatory-information/. Note that the Online Data Science program requires that you publish 7 blog posts in total.
 
 Below is an overview of the key milestones you’ll work through during your time in the program. 
-![alt text](https://user-images.githubusercontent.com/7960757/80315493-c2c47100-87ac-11ea-944d-d367ed1a820a.png)
+![alt text](https://github.com/learn-co-curriculum/key-program-milestones/blob/master/Program%20Milestone%20Images.png)
 
 ## Portfolio Projects & Project Reviews
 
